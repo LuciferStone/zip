@@ -37,7 +37,7 @@ logger = logging.getLogger(__name__)
 @loader.tds
 class UpdaterMod(loader.Module):
     """Updates itself"""
-    strings = {"name": "Updater",
+    strings = {"name": "Updater2.0",
                "source": "<b>Read the source code from</b> <a href='{}'>here</a>",
                "restarting_caption": "<b>Restarting...</b>",
                "downloading": "<b>Downloading updates...</b>",
